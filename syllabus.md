@@ -1,5 +1,5 @@
 # ENGL 306/COMPL301: 
-# Intro. to Literary Theory (sec 3)
+## Intro. to Literary Theory (sec 3)
 
 **Instructor**: Jeff Allred
 
