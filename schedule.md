@@ -1,7 +1,8 @@
 
 # **Course Schedule** 
 
-(texts with [C] are available via our Commons Group; for other texts, either follow the link or read the book)
+* texts with [C] are available via our Commons Group; for other texts, either follow the link or read the book
+* important: dates, readings, and assignments are subject to change. The schedule on this website is our schedule: please don't rely on the original printout from the first week!
 
 
 ###  1/28: Introduction, requirements, assignments
