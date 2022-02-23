@@ -58,11 +58,13 @@
 * readings (all readings due on the day they're listed)
 	* Genette, from *Paratexts* [C]                                                                                
 
-### 2/25
+### 2/25: Async Day: NO CLASS!!!
 * readings (all readings due on the day they're listed)
 	* Barbara Johnson, “Melville’s Fist” (2258-76)  
+	* [Video lecture on Johnson](https://youtu.be/s1FLEs1UyPU)
 * annoucements/work due:
 	* **Blog Post #3 due**
+	* Prompts delivered via listserv and on blog
 
 ### 3/1                                                                                                                                                                                                                                                                                           Review/catchup: no new reading                                                                                                                                                                                                                                                                                                                          
 
