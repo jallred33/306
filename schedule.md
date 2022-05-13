@@ -141,6 +141,6 @@
 ### 5/13: TBA/review for final exam
 ### 5/17: Take-home exam: 
 * due Wed 5/18 at midnight
-* template and link TBA
-* submit by Tues 5/18 at midnight
+* use this template
+* submit [here](https://www.dropbox.com/request/ca0YY1pyhWrm5tUNWJxL) for sec 3 and [here](https://www.dropbox.com/request/pyjfhXkLeSxDTPH57EPX) for sec 4
 * Last day to drop a course with a grade of “W”
