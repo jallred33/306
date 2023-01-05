@@ -154,9 +154,12 @@
 * readings (all readings due on the day they're listed)
 	* Timothy Morton, from *The Ecological Thought* (2621-2631)
 
-### 5/5 TBA/review for final exam
+### 5/5 TBA
 
-### 5/9: Final Exam
+### 5/9: review for final exam
+* come to class with *at least three* study questions you'd like to review and some ideas for a possible essay question for the exam
+
+### 5/16: Final Exam
 
 * due Friday 5/12 at midnight
 * template and link TBA
