@@ -103,7 +103,7 @@
 * **no class today**
 * due via Dropbox by Wednesday 3/22 by 5pm: template and Dropbox link TBA
 
-## Unit 4: Psyche/ the subject
+## Unit 4: Psyche/the Subject/Affect
 
 
 ### 3/24
