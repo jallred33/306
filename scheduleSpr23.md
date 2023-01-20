@@ -161,6 +161,6 @@
 
 ### 5/16: Final Exam
 
-* due Friday 5/12 at midnight
+* due Tuesday 5/16 **at midnight**
 * template and link TBA
 * 5/16/23 is last day to drop a course with a grade of “W”
