@@ -12,7 +12,7 @@
 * syllabus review 
 * mini-discussion on theme of "What is Theory" The handy introduction from Culler, [accessible here](https://www.dropbox.com/s/cio0tdelf07i3my/culler-WHATISTHEORY%3F.pdf?dl=0) is recommended to read prior to class but not required.                                                                                                                                                                       
 
-## Unit 1: Language/Structure/Signs                                                                                                                                                                                                                                                                                                                 
+## 1: Language/Structure/Signs                                                                                                                                                                                                                                                                                                                 
 
 ### 1/31:                        
 * readings (all readings due on the day they're listed)
@@ -58,7 +58,7 @@
 ### 2/17
 * Review/catchup: no new reading    
 
-## Unit 2: Ideology/Hegemony/Power                                                                                                                                                                                                                                                                                                                  
+## 2: Ideology/Hegemony/Power                                                                                                                                                                                                                                                                                                                  
 
 ### 2/24 (no class 2/21: Monday schedule)
 * readings (all readings due on the day they're listed)
@@ -103,7 +103,7 @@
 * **no class today**
 * due via Dropbox by Wednesday 3/22 by 5pm: template and Dropbox link TBA
 
-## Unit 4: Psyche/the Subject/Affect
+## 3: Psyche/the Subject/Affect
 
 
 ### 3/24
@@ -133,7 +133,7 @@
 ### 4/18
 * Review/catchup: no new reading    
 
-## Special Topic: Culture, Climate, and Catastrophe
+## 4: Special Topic: Culture, Climate, and Catastrophe
 
 ### 4/21
 * readings (all readings due on the day they're listed)
