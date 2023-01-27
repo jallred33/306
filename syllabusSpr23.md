@@ -5,29 +5,23 @@
 **Class Meetings (in HW 408)**: 
 
 * Tu/Fri 11:30-12:45 (sec 3)
-* Tu/Fri 1-2:15 (sec 4) 
 
-**Office Hours**: Tu/Fri 2:30-3:30 in HW 1205 or by appointment. 
+**Office Hours**: Tu/Fri 10-11am in HW 1205 or by appointment. 
 
 **Contact me**: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
 
 **CUNY Commons Blog**: 
 
-* sec 3: [https://engl306spr23s3.commons.gc.cuny.edu](https://engl306spr23s3.commons.gc.cuny.edu)
-* sec 4: [https://eng306spr23s4.commons.gc.cuny.edu/](https://eng306spr23s4.commons.gc.cuny.edu/)
+* [https://engl306spr23s3.commons.gc.cuny.edu](https://engl306spr23s3.commons.gc.cuny.edu)
 
 **CUNY Commons Group**:
 
-* sec 3: [https://commons.gc.cuny.edu/groups/eng-306-spr23-s3/](https://commons.gc.cuny.edu/groups/eng-306-spr23-s3/)
-* sec 4: [https://commons.gc.cuny.edu/groups/eng-306-spr23-s4/
-](https://commons.gc.cuny.edu/groups/eng-306-spr23-s4/)
+* [https://commons.gc.cuny.edu/groups/eng-306-spr23-s3/](https://commons.gc.cuny.edu/groups/eng-306-spr23-s3/)
 
 **Catalog Number**: 
 	
 * COMPL 30102-03 (13412)
-* COMPL 30102-04 (13157)
 * ENGL 30600-03 (13339)
-* ENGL 30600-04 (13255)
 
 ## **Learning Outcomes**
 
