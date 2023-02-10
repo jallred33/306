@@ -4,4 +4,3 @@
 4. How does Moretti explain the appearance and disappearance of genres of the novel (gothic, historical fiction, etc.) in figure 9? What are some possible explanations, and what does he find to be the best and why?
 5. Towards the end of the piece, Moretti riffs on *problems* and *solutions*: how does Moretti attempt to explain “problems” embedded in quantitative data (e.g., the lack of success of Hollywood comedies abroad)? What broader points does he make about how problem-solving works in “distant reading”?
 6. What does Moretti reply, in effect, to literary historians who crow about “the rise of” X, Y, or Z (e.g., Alliston’s “The Great Gender Shift” of the mid-18thC)? What alternative does he propose to this way of reading a particular “moment” in literary history?
-7. 
