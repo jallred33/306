@@ -1,7 +1,3 @@
-# Moretti, from *Graphs, Maps, Trees*
-[page numbers are from Norton 3rd ed]
-
-## Questions:
 1. Moretti starts the piece by pointing out the limitations of the way we read literature in academic settings and proposing “a more rational literary history.” What’s irrational about the way we construct the object of literary inquiry, the books we read, and the methodology of literary inquiry, the way we read them?
 2. Very quickly in the piece, we get into graphs that look very out of place, in a way, in a discussion of a literary topic like the novel. What strikes you about what we learn from these graphs? How is “reading” graphs different from reading novels, plays, and poems? Note Moretti’s comment on 2262 about how best to read the squiggles on his line graphs.
 3. Following the work of social historians, Moretti distinguishes between three temporal orders: the  *moment*, the *cycle*, and the *longue duree*. Which of these orders is most central to Moretti’s method? What does this distinctive unit of time help us see that the others don’t?
