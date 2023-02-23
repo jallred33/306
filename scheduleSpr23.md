@@ -67,14 +67,15 @@
 		* from *The German Ideology* (659-61); 
 		* from *Capital* (667-75). 
 		* Recommended: Raymond Williams, “Ideology” from *Keywords* [C]    
-* annoucements/work due:
-	* **Blog Post #3 due**
+
 
 ### 2/28                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 * readings:
 	* Antonio Gramsci, “Formation of the Intellectuals” (1002-08) 
 	* Raymond Williams, “Hegemony” from *Marxism and Literature* [C]
 
+* annoucements/work due:
+	* **Blog Post #3 due**
 	
 ### 3/3                       
 * readings:
