@@ -131,6 +131,9 @@
 * readings (all readings due on the day they're listed)
 	* Sianne Ngai, from *Ugly Feelings* (2641-50)
 
+* work due:
+	* proposals for final exam opt-out research project due (if interested)
+
 ### 4/18
 * Review/catchup: no new reading    
 
