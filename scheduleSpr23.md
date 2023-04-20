@@ -145,7 +145,7 @@
 
 ### 4/25
 * readings (all readings due on the day they're listed)
-	* Donna Haraway, "Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin" [C]
+	* [Donna Haraway, "Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin"](https://read.dukeupress.edu/environmental-humanities/article/6/1/159/8110/Anthropocene-Capitalocene-Plantationocene)
 
 
 ### 4/28
