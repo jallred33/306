@@ -1,7 +1,5 @@
-# Nixon, from SLOW VIOLENCE
-[notes based on Norton 3rd Ed excerpt]
+# nixon-from-SLOW-VIOLENCE
 
-## Questions:
 1. What is “slow violence”? How does the anecdote about Lawrence Summers’s memo help us to understand it? What are some of the tensions between the ideas of slowness and violence? Why is slow violence hard for us to see, grasp, and respond to?
 2. What are the political challenges that arise when responding to instances of slow violence? Why is it more difficult to respond to, say, the drought-induced water scarcities in the Colorado River valley in the US West than to the bombing of the World Trade Center?
 3. What does Nixon mean by the “environmentalism of the poor”? Given that the environment, by definition, affects us all, how does environmentalism manifest differently from the perspectives of relative wealth and relative poverty? From the developed North and the underdeveloped Global South?
