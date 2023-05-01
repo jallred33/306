@@ -147,12 +147,9 @@
 * readings (all readings due on the day they're listed)
 	* [Donna Haraway, "Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin"](https://read.dukeupress.edu/environmental-humanities/article/6/1/159/8110/Anthropocene-Capitalocene-Plantationocene)
 
+### 4/28: Class missed due to sickness
 
-### 4/28
-* readings (all readings due on the day they're listed)
-
-
-### 5/2
+### 5/2: 
 * readings (all readings due on the day they're listed)
  	* Jane Bennett, from *Vibrant Matter* 
 * work due:
@@ -160,6 +157,7 @@
 
 
 ### 5/5 
+
 * readings (all readings due on the day they're listed)
 	* Timothy Morton, from *The Ecological Thought* (2621-2631)
 
