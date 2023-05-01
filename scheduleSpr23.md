@@ -150,15 +150,19 @@
 
 ### 4/28
 * readings (all readings due on the day they're listed)
-	* Jane Bennett, from *Vibrant Matter* 
-* work due:
-	* **Blog Post #6 due**
+
 
 ### 5/2
 * readings (all readings due on the day they're listed)
+ 	* Jane Bennett, from *Vibrant Matter* 
+* work due:
+	* **Blog Post #6 due**
+
+
+### 5/5 
+* readings (all readings due on the day they're listed)
 	* Timothy Morton, from *The Ecological Thought* (2621-2631)
 
-### 5/5 TBA
 
 ### 5/9: review for final exam
 * come to class with *at least three* study questions you'd like to review and some ideas for a possible essay question for the exam
