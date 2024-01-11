@@ -1,5 +1,4 @@
-## Lifelines	
-
+## Lifelines
 Part of your grade in this course depends on your periodically showing something a bit "extra." You know that friend who always crushes bar trivia? Who effortlessly remembers who featured in what classic film? You, too, can be them, at least for a day.
 
 At the start of each class, I'll ask who would like to serve as my "lifelines" for the day. The term comes from the cheesy, hugely popular gameshow from the 2000s, "Who Wants to Be a Millionaire?" Contestants answered trivia questions and, when stumped, could poll the audience or make a phone call to a trusted friend, their "lifeline."
