@@ -2,7 +2,7 @@
 
 "Introduction to Theory" will be assessed using a contract grading system (described below). The work of the class will be conducted across these four assignments:
 
-* Participation (including serving as "[Lifeline](https://engl306spr24.commons.gc.cuny.edu/lifelines/]" as stipulated for your contract)
+* Participation (including serving as ["Lifeline"](https://engl306spr24.commons.gc.cuny.edu/lifelines/) as stipulated for your contract)
 * Blog Posts (criteria to be shared separately)
 * Midterm Exam
 * Final Exam (or project)
