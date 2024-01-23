@@ -10,7 +10,7 @@
                                                                                                                                                                                                                                                                                                     
 * introductions
 * syllabus review 
-* mini-discussion on theme of "What is Theory" The handy introduction from Culler, [accessible here](https://www.dropbox.com/s/cio0tdelf07i3my/culler-WHATISTHEORY%3F.pdf?dl=0) is recommended to read prior to class but not required.                                                                                                                                                                       
+* mini-discussion on theme of "What is Theory" The handy introduction from Culler, [accessible here](https://www.dropbox.com/s/cio0tdelf07i3my/culler-WHATISTHEORY%3F.pdf?dl=0), is recommended to read prior to class but not required.                                                                                                                                                                       
 
 ## 1: Language/Structure/Signs                                                                                                                                                                                                                                                                                                                 
 
