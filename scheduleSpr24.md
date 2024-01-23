@@ -2,7 +2,7 @@
 
 # **Course Schedule** 
 
-* texts with [C] are available via our Commons Group; for other texts, either follow the link or read the book
+* texts with [C] are available via our Commons Group IN the [LIBRARY](https://commons.gc.cuny.edu/groups/engl-306-spr24/library/); for other texts, either follow the link or read the book
 * important: dates, readings, and assignments are subject to change. The schedule on this website is our schedule: please don't rely on the original printout from the first week!
 
 
