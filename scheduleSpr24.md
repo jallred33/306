@@ -34,7 +34,7 @@
 ### 2/5 
 
 * readings (all readings due on the day they're listed)
-	* Roland Barthes, "The World of Wrestling", “The Eiffel Tower” [C]; “The Reality Effect”(1272-77)                                  
+	* Roland Barthes, "The World of Wrestling" and “The Eiffel Tower” [C]; “The Reality Effect”(1272-77)                                  
 
 * annoucements/work due:
 	* 2/7 is last day to drop for 50% tuition refund                                                                                                                                                                                  
@@ -48,7 +48,7 @@
 
 ### 2/15
 * readings (all readings due on the day they're listed)
-	* Bogost, "The Rhetoric of Video Games"
+	* Bogost, "The Rhetoric of Video Games" (2653-72)
 
 * annoucements/work due:
 	* **Blog post #2 due**  
