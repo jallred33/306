@@ -30,7 +30,7 @@ Contract grading also respresents an experiment in foregrounding the often-silen
 To fulfill any grade contract a student must do the following, which should nonetheless be specified in the contract submitted for approval. When writing self assessments students must describe how they have met these requirements in addition to the grade-specific requirements:
 
 * Come to class prepared to discuss the assigned readings. Participate actively in class activities and discussions, making observations and asking questions that help the class think together.
-* Meet with me in person—during office hours or another scheduled time *at least once* prior to Friday April 19th-to ensure you are on-track to meet your contract requirements, discuss any questions or concerns you have about the course or your progress, and decide on any necessary contract amendments.
+* Meet with me in person—during office hours or another scheduled time *at least once* by Friday April 19th-to ensure you are on-track to meet your contract requirements, discuss any questions or concerns you have about the course or your progress, and decide on any necessary contract amendments.
 * Complete the minimums of quantity and quality of the four assignments (above) for your contracted grade.
 * Revise contractual assignments as necessary until both you and I consider them “Satisfactory.”
 * Complete a final self-assessment demonstrating that your work has met the agreed requirements, submitting it to Professor Allred by 5pm on Wednesday May 15th.
@@ -41,7 +41,7 @@ To contract for an “A” in this course, you agree to:
 
 * Miss no more than **four** classes.
 * Serve as a "lifeline" for **at least three** classes (requirements [here](https://engl306spr24.commons.gc.cuny.edu/lifelines/)).
-* Attend office hours **at least once** prior to April 20th.
+* Attend office hours **at least once** by Friday, 4/19.
 * Exceed expectations regarding in-class device according to the policies outlined in the device use rubric.
 * Earn a "Satisfactory" on **six** blog posts and post them by the applicable deadline on the schedule.
 * Earn a "Satisfactory" on the midterm, completing **nine** of the short-answer questions and the essay.
@@ -56,6 +56,7 @@ To contract for an “B” in this course, you agree to:
 
 * Miss no more than **six** classes.
 * Serve as a "lifeline" for **at least two** classes (requirements [here](https://engl306spr24.commons.gc.cuny.edu/lifelines/)).
+* * Attend office hours **at least once** by Friday, 4/19.
 * Meet expectations regarding in-class device according to the policies outlined in the device use rubric.
 * Earn a "Satisfactory" on **five** blog posts and post them by the applicable deadline on the schedule (skipping one deadline as you see fit).
 * Earn a "Satisfactory" on the midterm, completing *seven* of the short-answer questions and the essay.
@@ -68,6 +69,7 @@ To contract for an “C” in this course, you agree to:
 
 * Miss no more than **eight** classes.
 * Serve as a "lifeline" for **at least one** classes (requirements [here](https://engl306spr24.commons.gc.cuny.edu/lifelines/)).
+* Attend office hours **at least once** by Friday, 4/19.
 * Meet expectations regarding in-class device according to the policies outlined in the device use rubric.
 * Earn a "Satisfactory" on **four** blog posts and post them by the applicable deadline on the schedule (skipping two deadlines as you see fit).
 * Earn a "Satisfactory" on the midterm, completing *five* of the short-answer questions and the essay.
@@ -88,5 +90,5 @@ Likewise, if you consistently submit mediocre work in fulfillment of your contra
 
 ## Contract Adjustments
 
-At midterm season, I will ask you to evaluate your work thus far and compare it against what you agreed in your grade contract. In these moments you can also take the opportunity to request an adjustment to your contract in either direction. If you find that you will be unable to meet the obligations of your contract, you may request to move to the next lowest grade and its requirements. Contrariwise, if you find that you’ve been performing above the obligations of your contract, you may request to fulfill the requirements for the next higher grade. The last date to make any contractural changes is April 20th, just before Spring Break, and any changes must be made in person during office hours, unless you're able to make alternative arrangements with Prof. Allred.`` Important Note: In order to effectively evaluate your own progress, you must keep track of your work, including days missed, blogs completed, and so forth.
+At midterm season, I will ask you to evaluate your work thus far and compare it against what you agreed in your grade contract. In these moments you can also take the opportunity to request an adjustment to your contract in either direction. If you find that you will be unable to meet the obligations of your contract, you may request to move to the next lowest grade and its requirements. Contrariwise, if you find that you’ve been performing above the obligations of your contract, you may request to fulfill the requirements for the next higher grade. The last date to make any contractural changes is April 19th, just before Spring Break, and any changes must be made in person during office hours, unless you're able to make alternative arrangements with Prof. Allred.`` Important Note: In order to effectively evaluate your own progress, you must keep track of your work, including days missed, blogs completed, and so forth.
 
