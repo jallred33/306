@@ -82,6 +82,19 @@ Once again, to draw from the inimitable Cathy Davidson:
 
 > The professor reserves the right to award a grade of D or F to anyone who fails to meet a contractual obligation in a systematic way. A “D” grade denotes some minimal fulfilling of the contract. An “F” is absence of enough satisfactory work, as contracted, to warrant passing of the course. Both a “D” and “F” denote a breakdown of the contractual relationship implied by signing any of the contracts described above.
 
+To simplify the differences between the A/B/C contracts, here’s a table:
+
+| A                            | B                 | C                 |
+|------------------------------|-------------------|-------------------|
+| max 4 absences               | max 6             | max 8             |
+| 6 blog posts                 | 5 blog posts      | 4 blog posts      |
+| 3 lifelines                  | 2 lifelines       | 1 lifeline        |
+| 9 short answers on midterm   | 7 SAs on midterm  | 5 SAs on midterm  |
+| short answers + essay final  | only SAs on final | only SAs on final |
+| self-assessment              | self-assessment   | self-assessment   |
+| attend office hrs 1x or more | office hrs 1x     | office hrs 1x     |
+
+
 ## What About Exceptional (or Mediocre) Work?
 
 I also reserve the right to reward exceptional work throughout the semester using the full range of Hunter's grading scale. If you contract for a “B,” for instance, and submit particularly strong pieces to fulfill that contract, I may choose to raise your contracted grade to a “B+.”
