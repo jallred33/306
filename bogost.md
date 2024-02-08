@@ -1,5 +1,3 @@
-# questions on Bogost
-
 1. What might one learn from playing *Animal Crossing*? What are some hints that the seemingly frivolous and self-contained world of the game points to more serious issues that might influence gamers’ thinking about the world beyond its borders?
 2. How does Bogost define (with an assist from Salen and Zimmerman) “play”? How does his understanding of the structure and function of play differ from common-sense understandings of the term? How is playing video games linked to other “playful” or “ludic” areas of culture, such as the literary experiments of the OULIPO group?
 3. Bogost relies heavily on two terms with long, complicated histories that predate video games: *procedure* and *rhetoric*. Both of these terms have bad reputations, in a way. How does Bogost rehabilitate them and combine them to imagine a new form of rhetorical procedure or, better, “procedural rhetoric”? How do video games use procedure, in other words, to mount arguments that seek to change our thinking and behavior?
