@@ -66,7 +66,7 @@
 	* Marx/Engels: 
 		* from *Economic and Philosophical Manuscripts of 1844* (655-9); 
 		* from *The German Ideology* (659-61); 
-		* from *Capital* (667-75). 
+		* from *Capital* (667-75). The excerpt from "The Working Day" is optional. 
 		* Recommended: Raymond Williams, “Ideology” from *Keywords* [C]    
 
 
