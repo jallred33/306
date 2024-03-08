@@ -1,0 +1,8 @@
+# Notes on Spivak, “Can the Subaltern Speak?” (N 3rd 2001-12)
+
+## Questions:
+1. What is the “epistemic violence” that Spivak identifies in the development of colonial rule in India (and in the Global South more broadly)? How does the example of British control of India help her articulate a more general process by which norms are constructed and agency divvied out in colonized societies?
+2. What is the “subaltern” Spivak speaks of? What is the history of this term, and whom does it name? What are some of the problems Spivak identifies in identifying a “referent” for this sign, a real-world object that corresponds to the term?
+3. As footnote #4 tells us, the Subaltern Studies group of Indian historians sought to forge more inclusive narratives of Indian history grounded in the “voice” or “perspective” of subaltern subjects. What is Spivak’s critique (sympathetic though it may be) of this effort?
+4. What are some problems that result from thinking about **female** subaltern subjects? You might look at the “shadow” metaphor on 2007, as well as the long examination of Sigmund Freud’s voicing of women’s issues in his psychoanalytic writing.
+5. How does Spivak’s story of her attempt to recover and reinterpret the suicide of Bhaduri point to some of the problem in facilitating the voice of the subaltern? What are some of the things that Bharduri’s act “said”? Who are the different agents who translate this message, so to speak? See her three numbered points at the end of the excerpt in particular, as she generalizes this problem.
