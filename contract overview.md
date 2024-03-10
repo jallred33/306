@@ -44,7 +44,7 @@ To contract for an “A” in this course, you agree to:
 * Attend office hours **at least once** by Friday, 4/19.
 * Exceed expectations regarding in-class device according to the policies outlined in the device use rubric.
 * Earn a "Satisfactory" on **six** blog posts and post them by the applicable deadline on the schedule.
-* Earn a "Satisfactory" on the midterm, completing **nine** of the short-answer questions and the essay.
+* Earn a "Satisfactory" on the midterm, completing **nine** of the short-answer questions ~~and the essay~~.
 * Earn a "Satisfactory" on the final exam, including the in-class short answers and the take-home final essay for "A" contracts. Students contracting for an A **may substitute a research project** for the final exam, in consultation with the professor.
 * Submit a self-assessment to the professor by 5pm on Wednesday May 15th.
 
@@ -59,7 +59,7 @@ To contract for an “B” in this course, you agree to:
 * * Attend office hours **at least once** by Friday, 4/19.
 * Meet expectations regarding in-class device according to the policies outlined in the device use rubric.
 * Earn a "Satisfactory" on **five** blog posts and post them by the applicable deadline on the schedule (skipping one deadline as you see fit).
-* Earn a "Satisfactory" on the midterm, completing *seven* of the short-answer questions and the essay.
+* Earn a "Satisfactory" on the midterm, completing *seven* of the short-answer questions ~~and the essay~~.
 * Earn a "Satisfactory" on the final exam, including the in-class short answers only. 
 * Submit a self-assessment to the professor by 5pm on Wednesday May 15th.
 
