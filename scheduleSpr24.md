@@ -133,10 +133,11 @@
 * readings:
 	* Jack Halberstam, from *Female Masculinity* (2525-48)
 * work due:
-	* proposals for final exam opt-out research project due (optional and only for A contracts)
+	* --proposals for final exam opt-out research project due (optional and only for A contracts)--
 
 ### 4/8
-* Review/catchup: no new reading    
+* Review/catchup: no new reading
+	* proposals for final exam opt-out research project due (optional and only for A contracts)  
 
 ## 4: Special Topic: Human and Animal
 
