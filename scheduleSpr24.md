@@ -143,7 +143,7 @@
 
 ### 4/11:
 * readings 	
-	* Wolfe, Cary. 2009. [Human, All Too Human: 'Animal Studies' and the Humanities. PMLA 124(2), 564-575.](https://www.dropbox.com/scl/fi/leet9tfhk95zbay9ffngi/Wolfe-HumanAllTooHuman.pdf?rlkey=63ax3muy2o9qs5lz0so9di9kt&dl=0))
+	* Wolfe, Cary. 2009. [Human, All Too Human: 'Animal Studies' and the Humanities. PMLA 124(2), 564-575.](https://www.dropbox.com/scl/fi/leet9tfhk95zbay9ffngi/Wolfe-HumanAllTooHuman.pdf?rlkey=63ax3muy2o9qs5lz0so9di9kt&dl=0)
 
 	
 ### 4/15:
