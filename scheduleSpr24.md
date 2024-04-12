@@ -152,19 +152,21 @@
 
 ### 4/18: 
 * readings 
-	* Nussbaum, "Frontiers of justice: capabilities and animals" [C]
+	* --Nussbaum, "Frontiers of justice: capabilities and animals" [C]--
+ 	* Deleuze and Guattari, "Becoming-animal" [C] (NOTE CHANGE)
 * work due:
 	* 4/19 is last day to modify grade contracts. Must meet in person with Prof. Allred to make any changes
 	
 ### 5/2: 
 * readings (all readings due on the day they're listed)
- 	* Deleuze and Guattari, "Becoming-animal" [C]
+	* Derrida, "The animal that therefore I am (more to follow)" [C] (read as far as you can: at least to p. 400)
+
 
 
 ### 5/6 
 
 * readings (all readings due on the day they're listed)
-	* Derrida, "The animal that therefore I am (more to follow)" [C]
+	* Derrida, "The animal that therefore I am (more to follow)" [C] (finish)
 * work due:
 	* **Blog Post #6 due**
 
