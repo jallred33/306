@@ -152,7 +152,7 @@
 
 ### 4/18: 
 * readings 
-	* --Nussbaum, "Frontiers of justice: capabilities and animals" [C]--
+	* ~~Nussbaum, "Frontiers of justice: capabilities and animals" [C]~~
  	* Deleuze and Guattari, "Becoming-animal" [C] (NOTE CHANGE)
 * work due:
 	* 4/19 is last day to modify grade contracts. Must meet in person with Prof. Allred to make any changes
