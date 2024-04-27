@@ -178,7 +178,7 @@
 ### 5/13: Final Exam
 
 * Short Answers in blue books during class (for everyone)
-* Essays (for A contracts) due Wednesday 5/16 **at 5pm**
-* Self-assessments (for all students) also due Wednesday 5/16 **at 5pm**
+* Essays (for A contracts) due Wednesday 5/15 **at 5pm**
+* Self-assessments (for all students) also due Wednesday 5/15 **at 5pm**
 * template and link TBA
 * 5/15 is last day to drop a course with a grade of “W”
