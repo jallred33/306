@@ -1,6 +1,4 @@
-# Derrida, “The Animal that Therefore I am (More to Follow)”
-
-prefatory note:
+## prefatory note:
 
 This is a fantastic piece to close out our semster in many ways: it takes a capacious view of Western thought, from Plato and Homer and Genesis to a “greatest hits” of texts we’ve read together, including Nietzsche and de Saussure on language, Lacan’s “mirror stage,” Althusser’s dialectic of recognition and subject formation, Spivak’s speculations on how “silenced” subjects might be allowed to “speak,” Spillers’s and Fanon’s explorations of how discourses of race render people of color as “beasts” of a sort, and of course Haraway’s and Wolfe’s writing about the animal.
 
