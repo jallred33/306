@@ -173,7 +173,7 @@
 
 
 ### 5/8: review for final exam
-* come to class with *at least three* study questions you'd like to review and some ideas for a possible essay question for the exam
+* come to class with *at least three* study questions you'd like to review 
 
 ### 5/13: Final Exam
 
