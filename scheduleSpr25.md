@@ -4,7 +4,7 @@
 * important: dates, readings, and assignments are subject to change. The schedule on this website is our schedule: please don't rely on the original printout from the first week!
 
 
-###  1/27: Introduction, requirements, assignments
+###  W1: 1/27: Introduction, requirements, assignments
                                                                                                                                                                                                                                                                                                     
 * introductions: feel free to introduce yourself virtually as well via the nifty [padlet](https://huntercollege68.padlet.org/jallred/intros-parts-of-speech-in-engl-702-spr-25-nar3vrtawrrobp7l)!
 * syllabus review 
@@ -29,7 +29,7 @@
 * annoucements/work due:
 	* come to class with an idea, however half-baked, of a cultural space or practice that you might "mythologize" like Barthes does...                                                                                                                                                                               
 
-### W4: 2/25 (async day: prof travelling)
+### W4: 2/18 (async day: prof travelling)
 * readings (all readings due on the day they're listed)
 	* Jacques Derrida, "Structure, Sign, and Play ..." [C]
 	* Barbara Johnson "Melville's Fist" [C] 
@@ -39,7 +39,7 @@
 	* **Blog post #2 due**   
 	* async assignment TBA: we'll do some kind of annotation exercise with the above readings.
 
-### W5: 3/3
+### W5: 2/24
 * readings (all readings due on the day they're listed)
 	* Moretti (2255-77)
 	* Genette, from *Paratexts* [C]     
@@ -49,7 +49,7 @@
 
 ## 2: Ideology/Hegemony/Power                                                                                                                                                                                                                                                                                                                  
 
-### W6: 3/10  
+### W6: 3/3  
 * readings (all readings due on the day they're listed)
 	* Marx/Engels: 
 		* from *Economic and Philosophical Manuscripts of 1844* (655-9); 
@@ -60,7 +60,7 @@
 	* **Blog Post #3 due**
 
 
-### W7: 3/17  
+### W7: 3/10  
 * readings:
 	* Antonio Gramsci, “Formation of the Intellectuals” (1002-08) 
 	* Raymond Williams, “Hegemony” from *Marxism and Literature* [C]
@@ -68,7 +68,7 @@
 
 
 
-### W8: 3/24                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+### W8: 3/17                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 * readings:
 	* W.E.B. Du Bois, from *Souls of Black Folk* (845-7)
 	* Franz Fanon, from “The Fact of Blackness” and "On National Culture" (1353-67)
@@ -77,7 +77,7 @@
 * annoucements/work due:
 	* **Blog Post #4 due**
 	
-### W9: 3/31                        
+### W9: 3/24                        
 * readings:
 	* Michel Foucault, from *The History of Sexuality* (1421-35)
 	* Michel Foucault, "Society Must be Defended" (1440-50)
@@ -86,7 +86,7 @@
 
 ## 3: Psyche/The Subject/Affect
 
-### W10: 4/7   
+### W10: 3/31   
 * readings (all readings due on the day they're listed)
 	* Meltzer, “Unconscious”[C] 
 	* Freud, from *The Interpretation of Dreams* (789-99)
@@ -95,21 +95,23 @@
 * work due:
 	* **Blog Post #5 due** 
                                    
-### W11: 4/21                    
+### W11: 4/7                   
 * readings:
 	* Mulvey, "Visual Pleasure and Narrative Cinema" (1954-66)
 	* Kaja Silverman, from *Threshold of the Visual World* [C]
 	* Slavoj Zizek, from *Looking Awry* [C]
 
-### W12: 4/28                
+### W12: 4/21                
 * readings:
 	* Sianne Ngai, from *Ugly Feelings* (pages)
 	* Lauren Berlant, from *Cruel Optimism* [C]
 	
 * work due:
-	* **Blog Post #6 due** 
-	
-### W14: 5/5 Special Topic I (TBA)                                                                                                     
+	* **Blog Post #6 due**
+ 
+### W13: 4/28 Special Topic I (TBA)                                                                                                     
 
-### W15: 5/12 Special Topic II (TBA)
+### W14: 5/5 Special Topic II (TBA)                                                                                                     
+
+### W15: 5/12 Special Topic III (TBA)
 * final project due Friday, May 16th
