@@ -7,7 +7,7 @@
 ###  W1: 1/27: Introduction, requirements, assignments
                                                                                                                                                                                                                                                                                                     
 * introductions: feel free to introduce yourself virtually as well via the nifty [padlet](https://huntercollege68.padlet.org/jallred/intros-parts-of-speech-in-engl-702-spr-25-nar3vrtawrrobp7l)!
-* syllabus review 
+* syllabus review, including discussion/devising of AI policy.
 * mini-discussion on theme of "What is Theory" The handy introduction from Culler, [accessible here](https://www.dropbox.com/s/cio0tdelf07i3my/culler-WHATISTHEORY%3F.pdf?dl=0), is recommended to read prior to class but not required.                                                                                                                                                                       
 
 ## 1: Language/Structure/Signs                                                                                                                                                                                                                                                                                                                 
