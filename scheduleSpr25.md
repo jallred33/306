@@ -18,7 +18,7 @@
 	* Saussure, from *Course in General Linguistics* (824-40) 
 	* Optional: Jonathan Culler on Saussure [C]    
 * annoucements/work due:
-	* **Blog post #1 due**: submit to course site and follow guidelines in my Blogging 101 post
+	* **Blog post #1 due**: submit to course site and follow guidelines in my [Blogging 101 post](https://engl702spr25.commons.gc.cuny.edu/2025/01/26/blogging-101/)
 
 ### W3: 2/10 
 
