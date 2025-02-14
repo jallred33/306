@@ -29,7 +29,7 @@
 * annoucements/work due:
 	* come to class with an idea, however half-baked, of a cultural space or practice that you might "mythologize" like Barthes does...                                                                                                                                                                               
 
-### W4: 2/18 (-async day: prof travelling-) REVISED PLAN: MEET AS USUAL IN 509B
+### W4: 2/18 (~~async day: prof travelling~~) REVISED PLAN: MEET AS USUAL IN 509B
 * readings (all readings due on the day they're listed)
 	* Jacques Derrida, "Structure, Sign, and Play ..." [C]
 	* Barbara Johnson "Melville's Fist" [C] 
