@@ -39,7 +39,9 @@
 	* **Blog post #2 due**   
 	* async assignment TBA: we'll do some kind of annotation exercise with the above readings.
 
-### W5: 2/24
+### ~~W5: 2/24~~ (canceled due to sickness)
+### W6: 3/3  
+
 * readings (all readings due on the day they're listed)
 	* Moretti (2255-77)
 	* Genette, from *Paratexts* [C]     
@@ -48,8 +50,8 @@
 	* **show and tell**: bring a book of some kind and be ready to tell us about some of its "paratexts" in Genette's sense.                                                                                                                                                                                                                      
 
 ## 2: Ideology/Hegemony/Power                                                                                                                                                                                                                                                                                                                  
+### W7: 3/10  
 
-### W6: 3/3  
 * readings (all readings due on the day they're listed)
 	* Marx/Engels: 
 		* from *Economic and Philosophical Manuscripts of 1844* (655-9); 
@@ -59,16 +61,15 @@
 * annoucements/work due:
 	* **Blog Post #3 due**
 
+### W8: 3/17        
 
-### W7: 3/10  
 * readings:
 	* Antonio Gramsci, “Formation of the Intellectuals” (1002-08) 
 	* Raymond Williams, “Hegemony” from *Marxism and Literature* [C]
 	* Louis Althusser, “Ideology and ISAs” (1285-1311)   
 
 
-
-### W8: 3/17                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+### W9: 3/24   
 * readings:
 	* W.E.B. Du Bois, from *Souls of Black Folk* (845-7)
 	* Franz Fanon, from “The Fact of Blackness” and "On National Culture" (1353-67)
@@ -77,7 +78,7 @@
 * annoucements/work due:
 	* **Blog Post #4 due**
 	
-### W9: 3/24                        
+### W10: 3/31                        
 * readings:
 	* Michel Foucault, from *The History of Sexuality* (1421-35)
 	* Michel Foucault, "Society Must be Defended" (1440-50)
@@ -86,7 +87,8 @@
 
 ## 3: Psyche/The Subject/Affect
 
-### W10: 3/31   
+### W11: 4/7 
+
 * readings (all readings due on the day they're listed)
 	* Meltzer, “Unconscious”[C] 
 	* Freud, from *The Interpretation of Dreams* (789-99)
@@ -95,13 +97,13 @@
 * work due:
 	* **Blog Post #5 due** 
                                    
-### W11: 4/7                   
+### W12: 4/21                   
 * readings:
 	* Mulvey, "Visual Pleasure and Narrative Cinema" (1954-66)
 	* Kaja Silverman, from *Threshold of the Visual World* [C]
 	* Slavoj Zizek, from *Looking Awry* [C]
 
-### W12: 4/21                
+### W13: 4/28           
 * readings:
 	* Sianne Ngai, from *Ugly Feelings* (pages)
 	* Lauren Berlant, from *Cruel Optimism* [C]
@@ -109,9 +111,9 @@
 * work due:
 	* **Blog Post #6 due**
  
-### W13: 4/28 Special Topic I (TBA)                                                                                                     
+                                                                                                    
 
-### W14: 5/5 Special Topic II (TBA)                                                                                                     
+### W14: 5/5 Special Topic I (TBA)                                                                                                     
 
-### W15: 5/12 Special Topic III (TBA)
+### W15: 5/12 Special Topic II (TBA)
 * final project due Friday, May 16th
