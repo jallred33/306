@@ -2,6 +2,7 @@
 
 * texts with [C] are available via our Commons Group in the [LIBRARY](https://commons.gc.cuny.edu/groups/engl-702-spr25/library/); for other texts, either follow the link or read the book
 * important: dates, readings, and assignments are subject to change. The schedule on this website is our schedule: please don't rely on the original printout from the first week!
+* as of 3/3/2025, our course site remains down: I've asked for tech support and hope to resolve soon. Stay tuned on email for instructions about any blog posts or other assignments that require our main site, and follow this schedule in the meantime.
 
 
 ###  W1: 1/27: Introduction, requirements, assignments
