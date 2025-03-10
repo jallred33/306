@@ -60,7 +60,7 @@
 		* from *Capital* (667-75). The excerpt from "The Working Day" is optional. 
 		* Recommended: Raymond Williams, “Ideology” from *Keywords* [C]    
 * annoucements/work due:
-	* **Blog Post #3 due**
+	* ~~**Blog Post #3 due**~~
 
 ### W8: 3/17        
 
@@ -68,7 +68,8 @@
 	* Antonio Gramsci, “Formation of the Intellectuals” (1002-08) 
 	* Raymond Williams, “Hegemony” from *Marxism and Literature* [C]
 	* Louis Althusser, “Ideology and ISAs” (1285-1311)   
-
+* annoucements/work due:
+	* **Blog Post #3 due**
 
 ### W9: 3/24   
 * readings:
@@ -77,7 +78,7 @@
 	* Chinua Achebe, "An Image of Africa: Racism in Conrad’s Heart of Darkness" [1536-46] 
 	* Claudia Rankine, from *Citizen* [C]
 * annoucements/work due:
-	* **Blog Post #4 due**
+	* 
 	
 ### W10: 3/31                        
 * readings:
@@ -96,7 +97,7 @@
 	* Freud, "Fetishism" (816-19)	
 	* Lacan, “The Mirror Stage” (1111-17)  
 * work due:
-	* **Blog Post #5 due** 
+	* **Blog Post #4 due** 
                                    
 ### W12: 4/21                   
 * readings:
@@ -110,7 +111,7 @@
 	* Lauren Berlant, from *Cruel Optimism* [C]
 	
 * work due:
-	* **Blog Post #6 due**
+	* **Blog Post #5 due**
  
                                                                                                     
 
