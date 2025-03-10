@@ -84,7 +84,7 @@
 	* Michel Foucault, from *The History of Sexuality* (1421-35)
 	* Michel Foucault, "Society Must be Defended" (1440-50)
 	* Spivak, "Can the Subaltern Speak?" (2001-12)
-* **Midterm project due**
+* **Midterm project due** [guidelines here](https://github.com/jallred33/306/blob/main/midtermSpr25.md)
 
 ## 3: Psyche/The Subject/Affect
 
