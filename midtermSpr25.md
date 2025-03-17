@@ -1,6 +1,6 @@
 ## Midterm Project
 
-Due 3/24 in class via email
+Due 3/31 in class via email
 
 Our midterm assignment can take one of two forms, both of which I'll elaborate below. The first is aimed at helping you make connections among the texts in a given unit or across units. The second emphasizes something different: the ways in which the abstractions of "theory" might be leveraged in practical ways to strengthen, deepen, and broaden your literary critical arguments. In each case, you will write about 1500-2500 words and need not use full-blown MLA format: since we're all reading the same texts from the same editions, you can simply give parentetical page citations for each reference to a theorist.
 
