@@ -74,11 +74,9 @@
 ### W9: 3/24   
 * readings:
 	* W.E.B. Du Bois, from *Souls of Black Folk* (845-7)
-	* Franz Fanon, from “The Fact of Blackness” and "On National Culture" (1353-67)
+	* Franz Fanon, from “The Fact of Blackness” [C: please read the .pdf and not the butchered version in the Norton!!] and "On National Culture" (1353-67)
 	* Chinua Achebe, "An Image of Africa: Racism in Conrad’s Heart of Darkness" [1536-46] 
-	* Claudia Rankine, from *Citizen* [C]
-* annoucements/work due:
-	* 
+	* optional: Claudia Rankine, from *Citizen* [C]
 	
 ### W10: 3/31                        
 * readings:
