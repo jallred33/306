@@ -78,42 +78,41 @@
 	* Chinua Achebe, "An Image of Africa: Racism in Conrad’s Heart of Darkness" [1536-46] 
 	* optional: Claudia Rankine, from *Citizen* [C]
 	
-### W10: 3/31                        
+### W10: 3/31 NO CLASS--EID (NOTE CHANGE)                 
+
+* **Midterm project due WED April 2nd** [guidelines here](https://github.com/jallred33/306/blob/main/midtermSpr25.md)
+
+### W11: 4/7 
 * readings:
 	* Michel Foucault, from *The History of Sexuality* (1421-35)
 	* Michel Foucault, "Society Must be Defended" (1440-50)
 	* Spivak, "Can the Subaltern Speak?" (2001-12)
-* **Midterm project due** [guidelines here](https://github.com/jallred33/306/blob/main/midtermSpr25.md)
-
+* work due:
+	* **Blog Post #4 due**
+ 
 ## 3: Psyche/The Subject/Affect
-
-### W11: 4/7 
-
+                                   
+### W12: 4/21    
 * readings (all readings due on the day they're listed)
 	* Meltzer, “Unconscious”[C] 
 	* Freud, from *The Interpretation of Dreams* (789-99)
 	* Freud, "Fetishism" (816-19)	
 	* Lacan, “The Mirror Stage” (1111-17)  
-* work due:
-	* **Blog Post #4 due** 
-                                   
-### W12: 4/21                   
+
+### W13: 4/28           
 * readings:
 	* Mulvey, "Visual Pleasure and Narrative Cinema" (1954-66)
 	* Kaja Silverman, from *Threshold of the Visual World* [C]
 	* Slavoj Zizek, from *Looking Awry* [C]
+                                                                                               
 
-### W13: 4/28           
+### W14: 5/5 
 * readings:
 	* Sianne Ngai, from *Ugly Feelings* (pages)
 	* Lauren Berlant, from *Cruel Optimism* [C]
 	
 * work due:
 	* **Blog Post #5 due**
- 
-                                                                                                    
 
-### W14: 5/5 Special Topic I (TBA)                                                                                                     
-
-### W15: 5/12 Special Topic II (TBA)
+### W15: 5/12 Special Topic (TBA)
 * final project due Friday, May 16th
