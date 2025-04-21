@@ -103,12 +103,13 @@
 * readings:
 	* Mulvey, "Visual Pleasure and Narrative Cinema" (1954-66)
 	* Kaja Silverman, from *Threshold of the Visual World* [C]
-	* Slavoj Zizek, from *Looking Awry* [C]
+	* Slavoj Zizek, from *Looking Awry* (2225-2242)
+
                                                                                                
 
 ### W14: 5/5 
 * readings:
-	* Sianne Ngai, from *Ugly Feelings* (pages)
+	* Sianne Ngai, from *Ugly Feelings* (2641-50))
 	* Lauren Berlant, from *Cruel Optimism* [C]
 	
 * work due:
