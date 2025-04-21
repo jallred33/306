@@ -104,7 +104,8 @@
 	* Mulvey, "Visual Pleasure and Narrative Cinema" (1954-66)
 	* Kaja Silverman, from *Threshold of the Visual World* [C]
 	* Slavoj Zizek, from *Looking Awry* (2225-2242)
-
+* work due:
+	* proposals due for any students doing the second option for the final
                                                                                                
 
 ### W14: 5/5 
