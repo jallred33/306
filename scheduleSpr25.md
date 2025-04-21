@@ -110,7 +110,7 @@
 
 ### W14: 5/5 
 * readings:
-	* Sianne Ngai, from *Ugly Feelings* (2641-50))
+	* Sianne Ngai, from *Ugly Feelings* (2641-50)
 	* Lauren Berlant, from *Cruel Optimism* [C]
 	
 * work due:
