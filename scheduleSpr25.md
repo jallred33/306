@@ -112,9 +112,12 @@
 * readings:
 	* Sianne Ngai, from *Ugly Feelings* (2641-50)
 	* Lauren Berlant, from *Cruel Optimism* [C]
+		* Intro REQUIRED; Ch 1 OPTIONAL
 	
 * work due:
 	* **Blog Post #5 due**
 
-### W15: 5/12 Special Topic (TBA)
+### W15: 5/12 Special Topic: Surveillance Capitalism [C]
+	* Shoshana Zuboff, from *The Age of Surveillance Capitalism* (2019)
+ 
 * final project due Friday, May 16th
