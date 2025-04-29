@@ -117,7 +117,9 @@
 * work due:
 	* **Blog Post #5 due**
 
-### W15: 5/12 Special Topic: Surveillance Capitalism [C]
-	* Shoshana Zuboff, from *The Age of Surveillance Capitalism* (2019)
+### W15: 5/12 Special Topic: Surveillance Capitalism (C)
+* readings:
+	* Zuboff, from *The Age of Surveillance Capitalism* (Ch 1 required: Ch 10 is in OPTIONAL READINGS if you have time)
+	* other optional reading: Wark, from *Is Capital Dead?* (also in OPTIONAL folder)
  
 * final project due Friday, May 16th
