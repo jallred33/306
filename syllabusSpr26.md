@@ -4,24 +4,16 @@
 
 **Class Meetings (in HN 1516)**: 
 
-* M/Th 11:30-12:45
+* M/W 10-11:15
 
-**Office Hours**: Mo/Th 2-3 in HW 1205 or by appointment. 
+**Office Hours**: M/W 11:30-12:30 in HW 1205 or by appointment. 
 
 **Contact me**: [jeff.allred@hunter.cuny.edu](mailto:jeff.allred@hunter.cuny.edu)
 
-**CUNY Commons Site**: 
-
-* [https://engl306spr24.commons.gc.cuny.edu/](https://engl306spr24.commons.gc.cuny.edu/)
-
-**CUNY Commons Group**:
-
-* [https://commons.gc.cuny.edu/groups/engl-306-spr24/](https://commons.gc.cuny.edu/groups/engl-306-spr24/)
-
 **Catalog Number**: 
 	
-* COMPL 30102-02 (9492)
-* ENGL 30600-02 (8898)
+* COMPL 30102-02 (3726)
+* ENGL 30600-02 (4242)
 
 ## **Learning Outcomes**
 
@@ -30,7 +22,6 @@ By the end of the semester, students will gain:
 - broad knowledge of major concepts, thinkers, and arguments in literary and cultural theory from the mid-19th century to the present
 - facility in spontaneously speaking and writing about theory via class discussion and informal writing
 - close reading/analytic skills in careful engagement with demanding philosophical prose.
-- experience engaging an audience of peers as well as a broader public orally and in writing, using the WordPress blogging platform
 
 ## **Course Description:**
 This class will survey a wide range of texts that engage crucial topics for students of literature and culture: for example, the formation and definition of the "literary"; the way sign systems work to make and unmake meaning; the political effects of literary texts; the psychological dimensions of reading and writing; and the relationships between literature, performance, and identity.   
@@ -42,17 +33,12 @@ Students will leave the class with an array of interpretive and analytic tools t
 
 ## **Grading:** 
 
-This course experiments with a "contract grading" model. In brief, students will sign contracts for A/B/C grades and complete a quantity of work that corresponds to that grade. A detailed rationale and list of requirements is [here](https://engl306spr24.commons.gc.cuny.edu/grade-contract/). You'll choose the grade you're contracting for and submit a contract by **Thursday, February 1st**.
+This course experiments with a "contract grading" model. In brief, students will sign contracts for A/B/C grades and complete a quantity of work that corresponds to that grade. A detailed rationale and list of requirements is [here](https://engl306spr25.commons.gc.cuny.edu/grade-contract/). You'll choose the grade you're contracting for and submit a contract by **Wednesday, February 4th**.
 
 
 ## Technology:
 
-We will use open-access resources via the CUNY Academic Commons rather than BlackBoard this term. You will use:
-
-* a course blog (using WordPress) for sharing informal writing with classmates and engaging in intellectual exchange about course materials with me and with each other.
-* a course "group" that is basically a listserv and document archive for .pdfs and other materials you'll need.
-
-There's a bit of work to get up and going on the Commons, and we'll cover those steps together in class. Most students find it a fun and engaging space for reading/writing, with more curb appeal and flexibility than Bb!
+We will use Brightspace this term for the basics of tracking the reading schedule, communicating with each other, and receiving feedback from the instructor. We will rely more heavily on the time-tested technologies of paper, print, pencils, and/or pens, so bring those to class every day.
 
 ## Writing and Research Help
 
@@ -102,14 +88,7 @@ Hunter College is dedicated to the health, wellness and safety of our student bo
 
 ## Book:
 
-* available [via Akademos](https://hunter.textbookx.com/institutional/index.php?action=browse#books/4118237/) and, really, anywhere: the link points to ENGL 306, but regardless of whether you're ENGL or COMPL, that's the right book! 
-
-* all other texts are available via our site + group (see links above). **Be sure** to check the link above and/or the ISBN below, even if you’re going to shop elsewhere, to get the correct edition!
-
-*The Norton Anthology of Theory and Criticism* [third edition], Leitch, Vincent B (Editor), Cain, William E (Editor), Finke, Laurie A (Editor), McGowan, John (Editor), Sharpley-Whiting
-    
-ISBN: 978-0-393-60295-1
-
+All readings will be provided in a two-volume coursepack, which I will distribute the first day of class (V1) and on the date of the midterm or thereabouts (V2). You are expected to bring this pack to class every day, along with something to write with and write on.
 
 
 
