@@ -39,6 +39,7 @@
 	* Roland Barthes, "The World of Wrestling" and “The Eiffel Tower”; “The Reality Effect”                                  
 
 * annoucements/work due:
+	* contract due [via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc_m16-Qx8RjiAy1jkcAaW_DPzZyDLfAXp6QyrHGuu1gr39iQ/viewform?usp=publish-editor)
 	* 2/8: last day to drop for 50% tuition refund
 	* 2/6: Late Registration ends                                                                                                                                                                               
 
