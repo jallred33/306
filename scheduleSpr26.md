@@ -151,7 +151,7 @@
 
 ### 5/6: 
 * readings (all readings due on the day they're listed)
-	* TBA/review/catchup
+	* Matteo Pasquinelli, ["How a Machine Learns and Fails..."](https://brightspace.cuny.edu/d2l/le/content/1127331/viewContent/40675576/View)
 * work due:
 	* last day to modify contracts or visit office hours or volunteer for "lifelines"
 	
